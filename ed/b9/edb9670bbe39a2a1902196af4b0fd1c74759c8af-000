@@ -1,0 +1,47 @@
+# 16 Aout 2026
+
+###### Kanazawa / Fukuoka / 
+
+###### Quartier Japon\
+YanakaGinza / Ogikubo Nishiokikubo / Asagaya / Koenji / Nakano
+
+###### Du coup kitasenju !
+
+###### kitasenju : cafe + sento = avoir le flair provoquer la chance / PAS provoquer la chance c'est explorer par soi même comprendre et développer une affinité + lire ...
+
+
+
+Ce qui attire les femmes : 
+
+1. Visuellement : visage attirant (cardio) + épaules/torse/dos + silhouette masculine en V.
+2. Actions : stature, musculature, mouvements, démarche.
+3.  Voix masculine peut nettement renforcer l’attraction ; les femmes préfèrent en moyenne une voix masculine relativement grave, mais pas artificiellement extrêmement grave.
+4. Sexuellement : l’effet devient souvent beaucoup plus fort quand cet homme attirant la regarde avec désir, se rapproche, la touche, parle d’une certaine manière, prend une initiative qu’elle désire, etc.
+
+## développement itératif et incrémental > raffinement itératif
+
+Générer un jeu via une boucle ou tu intègre de nouveaux assets via une boucle qui progresse sur différents niveaux\
+Animation 3D = peut être
+
+Characters 3D = non \
+Assets 3D = oui\
+Interfaces et Animation ...  = Oui\
+Histoire = Oui\
+Séquence de jeu ... = Oui \
+musique et sons sfx ... = Oui \
+Gameplay ... = Oui\
+\
+Comment via l'automation tu peux faire en sorte de créer des choses intéressantes ?\
+Oui mais ce serait full AI ? Oui mais ce serait intéressant en terme de Art Direction ... Le but encore une fois c'est simplement de prendre quelque chose et d'itérer suffisament jusqu'à rendre intéressante la chose, oui mais c'est pas ce que tu devais faire avec les environnements 3D et tu n'as pas réussi et là tu veux faire encore plus gros ... \
+Tu prends FFVII Remake en terme de vidéo gameplay pour te guider sur les idées que tu veux intégrer et tu build ton jeu au fur et à mesure et en soit ça peut être chouette parce qu'à mesure que tu build le truc t'as même pas besoin de faire la documentation ... C'est juste le verbe faire qui agit sur le fait de créer quelque chose de Huge ... Jeu 3D et après sur les thèmes tu t'inspires de ta vie qu'est ce que tu veux racconter, pourquoi ? à quoi bon etc ...
+
+Moi c'est surtout le truc tu crées un truc et ça part pas dans le void infini et tu le revois jamais ... Et aussi le système de FFVII via son UX UI / Camera rend le jeu extrêmemennt fluide même si le système de combat est pas incroyable, je pense que simplement reproduire quelque chose de cette ambition ce serait déjà Huge ... \
+Ah oui reprendre le squelette ... Mais faudrait partir de quelque chose de simple et rester toujours simple, quasi littéraire sur le jeu pour ne jamais créer quelque chose de trop complexe... Du coup comment tu imagines le jeu / est ce que tu veux absolument créer ce jeu et devenir connu maintenant ou c'est le plaisir de créer qui t'anime ? Non mais je pense pas que ce soit possible à date de tout automatiser et je peux pas rely sur ce que va dire Claude ... parce que moi je connais mieux certains aspects et parfois ça va si vite que bon ... En fait le truc c'est que si t'arrives à produire un produit aussi complexe que FFVII comme ça là ça devient extrêmement chelou ...
+
+Je vois un problème sur le côté Characters mais c'est plutôt que j'ai jamais appris à le faire ... \
+\
+Mais en soit imaginer une histoire avec un plot ça je m'en sens capable parce que en soit c'est juste prendre quelque chose et continuer de l'améliorer... Puis le vendre ... Comment tu t'imagines gagner ta vie Matthieu ? Bah en étant geek ... Parce que quand tu t'intéresses à des trucs qui n'interesse personne tu fais des produits évident pour les autres parce que toi tu es allé chercher quelque chose dont les autres avait besoin ... Oui mais c'est du software ... C'est pas une idée nouvelle de dire je vais refaire ffVII qui existe depuis 1997 ... ça fait que 29 ans c'est pas non plus énorme ... Je repensais à SNK et je me disais que en soit c'est assez insane comme ost même en 2013 ... Bah c'est que les oeuvres exceptionnels peu importe quand elles ont été créé ... Bah tu peux pas le savoir sans le faire ... Oui mais là tu dis tu peux générer n'importe quel part d'un jeu comme ça juste comme un développement d'app ... Après c'est aussi le côté imagination ...\
+\
+Qu'est ce qui fait que quand j'ai fait de la 3D ça n'a pas aboutit ... C'est parce que je fais de la 3D mais je sais pas à quoi ça sert hormis de faire un truc joli ça réponds pas à une problématique design ; contruire un immeuble / imagination / c'est juste démo technique donc chiant, ni artistique ni rien ... Est ce que tu es capable d'avoir du goût ? Oui je pense : Avoir du gout c'est aussi composer avec le réel ... \
+\
+Comment tu appelles ce concept ...
